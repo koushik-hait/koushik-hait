@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on ...any interesting python project
 - 📫 How to reach me   koushikhait49@gmail.com
 
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 <img src="./assets/koushik.png" alt="Avatar" style="width:200px; border-radius: 50%;">
 
 <!---
