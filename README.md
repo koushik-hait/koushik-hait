@@ -5,7 +5,7 @@
 - 📫 How to reach me   koushikhait49@gmail.com
 - 
 
-<img src="./assets/koushik.png" alt="Avatar" width="100" height="100" border-radius="50%">
+<img src="./assets/koushik.png"  alt="Avatar" width="80" border=10 border-radius="50">
 
 <!---
 koushik-hait/koushik-hait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
