@@ -6,7 +6,7 @@
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2019. <br>.</p>
 
-[![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-hait)](https://github.com/koushik-hait/github-readme-stats)
+[![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-hait&count_private=true&show_icons=true&theme=radical)](https://github.com/koushik-hait/github-readme-stats)
 
 ### 🛠 &nbsp;Tech Stack
 
