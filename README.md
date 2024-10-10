@@ -13,6 +13,8 @@
 [![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-hait&count_private=true&show_icons=true&theme=radical)](https://github.com/koushik-hait/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67073655fb4be684dbd572be?variant=dark&roadmaps=backend)](https://roadmap.sh)
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
