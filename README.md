@@ -1,38 +1,28 @@
-<!-- Skill Level Badges - Add these to your README -->
+
 ![Python](https://img.shields.io/badge/Python-Advanced-success?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
 ![Django](https://img.shields.io/badge/Django-Intermediate-informational?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20&color=44B78B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=323330)
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-green?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=1F6B3B)
-```
 
-### 2. Project Count Badges
 
-```md project="GitHub Profile" file="project-badges.md" type="markdown"
+
 &lt;!-- Project Count Badges - Add these to your README -->
 ![Django Projects](https://img.shields.io/badge/Django_Projects-8+-green?style=for-the-badge&logo=django&logoColor=white)
 ![Web Apps](https://img.shields.io/badge/Web_Applications-12+-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![API Projects](https://img.shields.io/badge/API_Projects-5+-orange?style=for-the-badge&logo=fastapi&logoColor=white)
-```
 
-### 3. Custom Metrics Badges
 
-```md project="GitHub Profile" file="metrics-badges.md" type="markdown"
-<!-- Custom Metrics Badges - Add these to your README -->
+
 ![Years Coding](https://img.shields.io/badge/Years_Coding-4+-blue?style=for-the-badge&logo=counter-strike&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source_Contributor-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 ![Freelance Projects](https://img.shields.io/badge/Freelance_Projects-10+-purple?style=for-the-badge&logo=upwork&logoColor=white)
-```
 
-## Custom Graphics
 
-### 1. Animated Name Banner
 
-Here's a custom animated name banner you can use at the top of your profile:
-
-```html project="GitHub Profile" file="animated-name.html" type="code"
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=435&lines=Koushik+Hait;Full-Stack+Developer;Python+%7C+Django+Expert;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 [![koushik hait]]
 
 ##comment
