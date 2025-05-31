@@ -1,37 +1,6 @@
 
-![Python](https://img.shields.io/badge/Python-Advanced-success?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
-![Django](https://img.shields.io/badge/Django-Intermediate-informational?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20&color=44B78B)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=323330)
-![Node.js](https://img.shields.io/badge/Node.js-Learning-green?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=1F6B3B)
-
-
-
-&lt;!-- Project Count Badges - Add these to your README -->
-![Django Projects](https://img.shields.io/badge/Django_Projects-8+-green?style=for-the-badge&logo=django&logoColor=white)
-![Web Apps](https://img.shields.io/badge/Web_Applications-12+-blue?style=for-the-badge&logo=html5&logoColor=white)
-![API Projects](https://img.shields.io/badge/API_Projects-5+-orange?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-
-![Years Coding](https://img.shields.io/badge/Years_Coding-4+-blue?style=for-the-badge&logo=counter-strike&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source_Contributor-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![Freelance Projects](https://img.shields.io/badge/Freelance_Projects-10+-purple?style=for-the-badge&logo=upwork&logoColor=white)
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=435&lines=Koushik+Hait;Full-Stack+Developer;Python+%7C+Django+Expert;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
 [![koushik hait]]
 
-##comment
-
-<h2 align="center">🛠️ My Development Ecosystem</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,nodejs,postgres,mysql,firebase,tensorflow,git,github,vscode&perline=7" />
-</p>
-##comment
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
@@ -40,58 +9,35 @@
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2019. <br>.</p>
 
 
-[![Koushik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushik-hait&theme=tokyo-night&hide_border=true)](https://github.com/koushik-hait)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=koushik-hait&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
 [![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-hait&count_private=true&show_icons=true&theme=radical)](https://github.com/koushik-hait/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![roadmap.sh](https://roadmap.sh/card/wide/67073655fb4be684dbd572be?variant=dark&roadmaps=backend)](https://roadmap.sh)
 
-### 🛠 &nbsp;Tech Stack
+<h2 align="center">🛠️ My Development Ecosystem</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,nodejs,postgres,mysql,firebase,tensorflow,git,github,vscode&perline=7" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-<!--
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=435&lines=Koushik+Hait;Full-Stack+Developer;Python+%7C+Django+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+[![Koushik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushik-hait&theme=tokyo-night&hide_border=true)](https://github.com/koushik-hait)
 
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
+![Python](https://img.shields.io/badge/Python-Advanced-success?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B)
+![Django](https://img.shields.io/badge/Django-Intermediate-informational?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20&color=44B78B)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=323330)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-green?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=1F6B3B)
 
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
+![Django Projects](https://img.shields.io/badge/Django_Projects-8+-green?style=for-the-badge&logo=django&logoColor=white)
+![Web Apps](https://img.shields.io/badge/Web_Applications-12+-blue?style=for-the-badge&logo=html5&logoColor=white)
+![API Projects](https://img.shields.io/badge/API_Projects-5+-orange?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
--->
+![Years Coding](https://img.shields.io/badge/Years_Coding-4+-blue?style=for-the-badge&logo=counter-strike&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source_Contributor-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Freelance Projects](https://img.shields.io/badge/Freelance_Projects-10+-purple?style=for-the-badge&logo=upwork&logoColor=white)
+
 ### :link: &nbsp;Connect with me
 
 <p align="center">
