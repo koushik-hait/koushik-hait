@@ -10,16 +10,12 @@
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2019. <br>.</p>
 
-&lt;!-- GitHub Activity Graph -->
+
 [![Koushik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koushik-hait&theme=tokyo-night&hide_border=true)](https://github.com/koushik-hait)
-```
 
-### 4. GitHub Streak Stats
 
-```md project="GitHub Profile" file="streak-stats.md" type="markdown"
-<!-- GitHub Streak Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=koushik-hait&theme=radical&hide_border=true)](https://git.io/streak-stats)
-```
+
 
 [![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-hait&count_private=true&show_icons=true&theme=radical)](https://github.com/koushik-hait/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
