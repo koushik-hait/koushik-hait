@@ -8,7 +8,7 @@
 
 <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2019. <br>.</p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=koushik-hait" alt="GitHub Streak" /></a></p>p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=koushik-hait" alt="GitHub Streak" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=koushik-hait&theme=onedark)](https://git.io/streak-stats)
 [![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushik-hait&count_private=true&show_icons=true&theme=radical)](https://github.com/koushik-hait/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
